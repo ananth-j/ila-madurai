@@ -1,8 +1,15 @@
 # 🧾 ILA Water Supply Management App (2023 aug to 2023 oct)
 
+
+
+
 A custom mobile app built for a local water supply agency to streamline customer and vehicle management operations.
 
 ## 📱 Project Overview
+
+<blockquote>
+  <strong>⚠️ Client prioritized core functionality over user interface design. UI/UX was not a key deliverable for this project.</strong>
+</blockquote>
 
 This Flutter-based app helps the business efficiently manage:
 
