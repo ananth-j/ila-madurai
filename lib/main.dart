@@ -11,11 +11,11 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyCByP8dlMgqGoqYKK-oy92LzL3uk3Mr9yU",
-          projectId: "ilawater-7f1b6",
-          storageBucket: "ilawater-7f1b6.appspot.com",
-          messagingSenderId: "183952645846",
-          appId: "1:183952645846:web:ee14dd0b8cf3ba61d3b377"),
+          apiKey: "AIzaSyCByP8dlMgqGoqYKK-dummykey",
+          projectId: "ilawater-dummykey",
+          storageBucket: "ilawater-dummykey.appspot.com",
+          messagingSenderId: "18395264584dummykey6",
+          appId: "1:183952645846:web:dummykey"),
     );
   }
   await Firebase.initializeApp();
