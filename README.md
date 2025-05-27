@@ -33,6 +33,8 @@ This Flutter-based app helps the business efficiently manage:
 ## 📸 Screenshots
 
 > _Add screenshots here for Customer page, Vehicle tracking, and Admin dashboard_
+![main_page](https://github.com/user-attachments/assets/d032edfa-2a38-4133-affd-2cd80fa85e98)
+
 
 ## 💡 Key Benefits
 
