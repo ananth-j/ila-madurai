@@ -33,19 +33,17 @@ This Flutter-based app helps the business efficiently manage:
 ## 📸 Screenshots
 
 > _Add screenshots here for Customer page, Vehicle tracking, and Admin dashboard_
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/d032edfa-2a38-4133-affd-2cd80fa85e98" alt="App Screenshot" width="250" />
-</p>
+ 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1d4a6f0f-3fb5-4091-aaac-c8d0ec86b31b" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/d032edfa-2a38-4133-affd-2cd80fa85e98" width="250"></td>
     <td><img src="https://github.com/user-attachments/assets/cbd8427f-7cdc-4ed5-98c7-8c5ea56d63d4" width="250"></td>
     <td><img src="https://github.com/user-attachments/assets/be56fe24-bdee-40b9-8c5c-f9c2d41391f7" width="250"></td>
     <td><img src="https://github.com/user-attachments/assets/9d35d515-187c-4cdc-a749-78fe28fc6251" width="250"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/51cba390-9c6f-4862-a484-91da2d5c6919" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/f331032f-3c2e-4baa-99a8-543011f403b3" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/1d4a6f0f-3fb5-4091-aaac-c8d0ec86b31b" width="250"></td>
     <td><img src="https://github.com/user-attachments/assets/42974899-0def-4496-919e-5509a9b09591" width="250"></td>
     <td><img src="https://github.com/user-attachments/assets/163831e1-cb55-43b0-8c0d-4983bca275fe" width="250"></td>
   </tr>
