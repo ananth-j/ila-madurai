@@ -1,16 +1,45 @@
-# ila
+# 🧾 ILA Water Supply Management App
 
-A new Flutter project.
+A custom mobile app built for a local water supply agency to streamline customer and vehicle management operations.
 
-## Getting Started
+## 📱 Project Overview
 
-This project is a starting point for a Flutter application.
+This Flutter-based app helps the business efficiently manage:
 
-A few resources to get you started if this is your first Flutter project:
+- 🧍 **Customer Records**  
+  - Track the number of cans held by each customer  
+  - View pending payments and advance balances  
+  - Access full transaction and payment history with timestamp
+  - Add, edit, and delete customer details
+    
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🚚 **Vehicle Management**  
+  - Monitor the current can inventory in each vehicle  
+  - Record starting cash and daily collections  
+  - View delivery history and vehicle-wise reports  
+  - Add and remove vehicles
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 👥 **Employee Management**  
+  - Add and manage delivery staff  
+  - Assign vehicles and monitor activity
+
+## 🔧 Tech Stack
+
+- **Flutter** – UI and app logic  
+- **Firebase** – Authentication and real-time data  
+- **MongoDB Atlas** – Cloud-based NoSQL database
+
+
+## 📸 Screenshots
+
+> _Add screenshots here for Customer page, Vehicle tracking, and Admin dashboard_
+
+## 💡 Key Benefits
+
+- Eliminates manual record-keeping  
+- Tracks customer balances and deliveries in real-time  
+- Improves business accountability and transparency  
+- Supports multi-user role-based access
+
+---
+
