@@ -6,7 +6,7 @@ import 'package:mongo_dart/mongo_dart.dart';
 import '../logics/jsons/customer_json.dart';
 
 const MAIN_URL_CONNCTION =
-    "mongodb+srv://ananth:ananth@ila-sample.z3a5mrs.mongodb.net/?retryWrites=true&w=majority&appName=ila-sample";
+    server_url;
 
 class Connector {
   static var db, userCollection, orderCollection;
