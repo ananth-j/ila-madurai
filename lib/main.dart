@@ -15,7 +15,7 @@ void main() async {
           projectId: "ilawater-dummykey",
           storageBucket: "ilawater-dummykey.appspot.com",
           messagingSenderId: "18395264584dummykey6",
-          appId: "1:183952645846:web:dummykey"),
+          appId: "1:18395264586:web:dummykey"),
     );
   }
   await Firebase.initializeApp();
