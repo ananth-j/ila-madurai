@@ -13,7 +13,7 @@ A custom mobile app built for a local water supply agency to streamline customer
 
 This Flutter-based app helps the business efficiently manage:
 
-- 🧍 **Customer Records**  
+- 🧍 **Customer Records**
   - Track the number of cans held by each customer  
   - View pending payments and advance balances  
   - Access full transaction and payment history with timestamp
